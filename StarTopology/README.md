@@ -27,4 +27,4 @@ User Inputs
 
   A list of Artifactory instances the master should replicate to.
 
-Additional parameters can be found at: https://www.jfrog.com/confluence/display/MC/Configuration+DSL+2.0#ConfigurationDSL2.0-Replication
+Additional parameters can be found at: https://www.jfrog.com/confluence/display/MC/Configuration+DSL
